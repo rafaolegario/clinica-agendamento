@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1770143071166,
+      "tag": "0000_same_donald_blake",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1770143374475,
+      "tag": "0001_wandering_nova",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1770145142659,
+      "tag": "0002_nappy_slapstick",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1770145603964,
+      "tag": "0003_auth_tables_to_text",
+      "breakpoints": true
+    }
+  ]
+}
