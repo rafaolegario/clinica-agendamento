@@ -20,7 +20,6 @@ import { FormControl, FormMessage } from "@/components/ui/form";
 import { FormItem, FormLabel } from "@/components/ui/form";
 import { Form, FormField } from "@/components/ui/form";
 import { Input } from "@/components/ui/input";
-import { auth } from "@/lib/auth";
 import { authClient } from "@/lib/auth-client";
 
 const loginSchema = z.object({
